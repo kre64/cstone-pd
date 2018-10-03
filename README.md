@@ -1,4 +1,4 @@
-Music-Sequencer
+music-sequencer-web
 =====
 Music Sequencer with record functionality.
 
