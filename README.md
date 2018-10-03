@@ -1,4 +1,7 @@
-# cstone-pd
+Music-Sequencer
+=====
 Music Sequencer with record functionality.
 
-Visible here: https://codepen.io/kre64/full/ZjyOEY/
+Try it
+=====
+https://codepen.io/kre64/full/ZjyOEY/
